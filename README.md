@@ -2,12 +2,16 @@
 
 ## URLs
 
-- WikiFood: https://cs50-wikifood.vercel.app/
+-   WikiFood: https://cs50-wikifood.vercel.app/
 
-- Birthie: https://birthie.vercel.app/
+-   Fineer: https://fineer.vercel.app/
+
+-   Birthie: https://birthie.vercel.app/
 
 ## Repositories
 
-- WikiFood: https://github.com/matias-fuentes/WikiFood
+-   WikiFood: https://github.com/matias-fuentes/WikiFood
 
-- Birthie: https://github.com/matias-fuentes/Birthie
+-   Fineer: https://github.com/matias-fuentes/Fineer
+
+-   Birthie: https://github.com/matias-fuentes/Birthie
